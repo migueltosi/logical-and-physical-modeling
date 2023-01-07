@@ -1,5 +1,5 @@
 # Relational database modeling: logical and physical modeling [Revision]
-> Project Status: on development (3/5)
+> Project Status: completed (subjected to changes)
 
 A Relational Database Modeling revision nootebok. <br/>
 Practicing concepts, models, ilustrations and first basic physical modelings. <br/>
